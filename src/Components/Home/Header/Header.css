@@ -1,0 +1,4 @@
+.bg-skew{
+    background-color:#FBD062;
+    clip-path: polygon(0 0, 100% 0, 100% 83%, 0% 100%);
+}

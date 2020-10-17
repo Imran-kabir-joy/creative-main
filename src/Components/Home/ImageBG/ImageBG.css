@@ -1,0 +1,17 @@
+.carouselHeader{
+font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 34px;
+text-align: center;
+letter-spacing: 0.396px;
+
+color: #FFFFFF;
+}
+
+.carouselBg{
+    background-color:  #111430;
+    height:650px;
+
+}
+
